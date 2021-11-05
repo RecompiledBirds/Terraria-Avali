@@ -73,8 +73,10 @@ namespace AvaliMod
 					//For some unknowable reason, statLifeMax and statLifeMax2 exist. The difference? I really don't know.
 					player.statLifeMax2 -= player.statLifeMax2 / 2;
 					player.statDefense -= (player.statDefense / 2);
+
 					player.meleeSpeed += player.meleeSpeed / 10;
 					player.moveSpeed += player.moveSpeed / 25;
+
 					player.meleeDamage += player.meleeDamage / 2;
 
 				}
