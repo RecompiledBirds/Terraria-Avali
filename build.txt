@@ -1,6 +1,6 @@
 displayName = [c/3ABC7A:Avali]
 author = NesiAvali, Buzzsaw5000
-version = 0.0.5
+version = 0.0.7
 modReferences = MrPlagueRaces
 includeSource = true
 includePDB = true
